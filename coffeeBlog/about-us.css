@@ -1,0 +1,13 @@
+.about-us-container h1{
+    text-align: center;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+.about-items p{
+    margin-bottom: 2%;
+}
+
+img{
+    max-width: 70%;
+}

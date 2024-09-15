@@ -1,0 +1,28 @@
+/*main*/
+
+.main-container{
+    display: flex;
+    justify-content: center;
+}
+.our-blog-container{
+    width: 65%;
+}
+.our-courses-container{
+    width: 35%;
+    margin-left: 20px;
+}
+
+.blog-item{
+    border-bottom: 1px solid gray;
+    margin-bottom: 20px;
+}
+
+.blog-courses{
+    background-color: rgb(240, 223, 186);
+    border-bottom: 1px solid gray;
+    margin-bottom: 20px;
+}
+
+img{
+    max-width: 100%;
+}
