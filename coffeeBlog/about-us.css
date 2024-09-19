@@ -8,6 +8,17 @@
     margin-bottom: 2%;
 }
 
-img{
-    max-width: 70%;
+.about-items img{
+    width: 70%;
+}
+
+.about-items{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+h2{
+    text-align: center;
 }

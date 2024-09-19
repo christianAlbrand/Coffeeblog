@@ -1,0 +1,76 @@
+.third-header{
+    background-color: black;
+    color: white;
+    height: 100px;
+}
+
+.nav-menu-bar{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.menu a{
+    color: white;
+    text-decoration: none;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.menu{
+    padding-top: 15px;
+}
+
+.course-1 img,
+.course-2 img{
+    width: 30%;
+}
+
+.course-4 img{
+    width: 15%;
+    margin-right: 5%;
+}
+
+.container{
+    width: 100%;
+}
+
+h2{
+    text-align: center;
+}
+
+.course-1,
+.course-3{
+    display: flex;
+    flex-direction: row;
+    border-bottom: 2px solid gray;
+}
+
+.course-1-style-direction{
+    margin-left: 3%;
+    margin-top: 4%;
+    margin-right: 10%;
+}
+
+.course-2,
+.course-4{
+    display: flex;
+    flex-direction: row;
+    text-align: left;
+    border-bottom: 2px solid gray;
+}
+
+.course-2-style-direction{
+    margin-top: 7%;
+    margin-left: 5%;
+}
+
+.course-3-style-direction{
+    margin-top: 7%;
+    margin-left: 5%;
+    margin-right: 10%;
+}
+
+.course-4-style-direction{
+    margin-top: 5%;
+    margin-left: 5%;
+}
